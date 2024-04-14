@@ -1,3 +1,4 @@
+The core promoter is the regions __; +/-50bp of the TSS
 TBP (acronym); TATA box Binding Protein
 Number of subunits in RNA pol II; 12
 The role of core promoters is to __; place the catalytic site of RNA pol II in a suitable position
@@ -7,6 +8,7 @@ RNA Pol II associates with __; TAFIIs
 TBP and TAFs assemble to form __; TFIID
 TFIID stabilises the DNA (due to displacement of nucleosomes) via __; HAT activity of TAF1
 Pol II is [capabale/not capable] of recognizing specific DNA binding sequences; not capable
+DNA opening during transcription is mediated by __; TFIIH
 The transcription start is determined by __; the position of Pol II with regards to TFIID
 The TATA box is located __ of the TSS; ~30bps upstream
 TATA box are named that way because __; thir consensus sequence is TATAWADR
@@ -15,6 +17,7 @@ __% of mamalian core promoters carry a functional TATA box; 10-20%
 The consensus sequence for the initiator (Inr) elements is located; overlaps the TSS
 The Inr elements initiates transcription by; recruiting TAF1 and TAF2, then TFIID like TATA mechanism
 SP1 binds in region __; with high "GC" content
+SP1 binds in core promoters of ____ genes ____; housekeeping / missing both TATA and Inr
 SP1 (acronym); Specific Protein 1
 Core promoters [have/don't have] the same size; don't have, there are sharp and broad ones
 Sharp core promoters are more likely to contain __; TATA box
@@ -23,8 +26,13 @@ Broad core promoters are more likely to contain __; CpG islands
 Sharp core promoters are preferentialy used for __; Housekeeping genes
 In humans most protein coding genes have [a single / more than one] TSS regions; more than one
 The protein complexes involved in transcriptional regulation have [dynamic/static] structure, meaning that their structure [varies / stays the same] over time; dynamic, varies
+TFIID role; Recognizes TATA box near the TSS
 TFIIA role; TBP-DNA stabilization
-TFIIB role; TBP-DNA stabilization; recruitment of TFIIF
+TFIIB role; TBP-DNA stabilization, recruitment of TFIIF
 TFIIF role; Pol II interraction and recruitment to promoter
-TFIIE role; Pol II initiation; recruit TFIIH
-TFIIH role; promoter clearance
+TFIIE role; Pol II initiation, recruits TFIIH
+TFIIH role; Releases RNA Pol II from promoter, and opens DNA during transcription
+The role of the mediator complex is __; to communicate regulatory signals to RNA Pol II
+RNA Pol II and CDK8 bindings to the mediator complex are [independant/mutually dependant/mutually exclusive]; mutually exclusive
+The Mediator complex contains __ subunits in humans; 26 subunits
+Transcription can interract with [all / specific] mediator subunits; specific
